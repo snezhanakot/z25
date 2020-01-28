@@ -1,4 +1,4 @@
-# 1. Lesson 3 28.01.2020
+# 1. Lesson 3 / 28.01.2020
 ### Documentation
 - https://docs.python.org/3/tutorial/introduction.html
 - https://docs.python.org/3/tutorial/controlflow.html
