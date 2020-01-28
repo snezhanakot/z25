@@ -1,4 +1,4 @@
-# 1 28.01.2020
+# 1. Lesson 3 28.01.2020
 ### Documentation
 - https://docs.python.org/3/tutorial/introduction.html
 - https://docs.python.org/3/tutorial/controlflow.html
@@ -10,7 +10,7 @@
 ### Practice
 https://gist.github.com/tima-akulich/b9800a0936bf0847d9cbdd4f96892f12
 
-### Homework (homework1)
+### Homework (homework3)
 
 1. Вывести таблицу значений функции ```y = -1.24x2 + x.```
 Значения аргумента (x) задаются минимумом, максимумом и шагом (ввод пользователем).
