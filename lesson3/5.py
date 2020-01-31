@@ -16,6 +16,3 @@ if count_numbers:
     print(sum_positive_numbers / count_numbers)
 else:
     print('ZERO')
-
-
-

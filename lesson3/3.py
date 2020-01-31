@@ -4,8 +4,8 @@ _sum = 0
 _mul = 1
 
 while True:
-# while number := input('> '):
-# https://www.geeksforgeeks.org/walrus-operator-in-python-3-8/
+    # while number := input('> '):
+    # https://www.geeksforgeeks.org/walrus-operator-in-python-3-8/
     number = input('> ')
     if not number:
         break
