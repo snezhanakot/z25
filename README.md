@@ -28,16 +28,17 @@ https://gist.github.com/tima-akulich/b9800a0936bf0847d9cbdd4f96892f12
 ##### PS: Можно использовать только, то что мы прошли.
 ##### PSS: каждую задачу в отдельном файле <number>.py и все файлы в zip
 
-### Homework 4 (lesson4)
-Задание описаны в файлах в папке lesson4
-
-### Practice
-https://gist.github.com/tima-akulich/1a67dea321ba5faed9f953db4cebc62e
-
+# 1. Lesson 4 / 31.01.2020
 ### Docs
 GIT:
 - https://git-scm.com/book - книга
 - http://schacon.github.io/git/gittutorial.html - туториал
+
+### Practice
+https://gist.github.com/tima-akulich/1a67dea321ba5faed9f953db4cebc62e
+
+### Homework 4 (lesson4)
+Задание описаны в файлах в папке lesson4
 
 ### HOW TO?
 1. Делаем форк этого репозитория (https://github.com/tima-akulich/z25)
