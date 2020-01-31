@@ -28,7 +28,7 @@ https://gist.github.com/tima-akulich/b9800a0936bf0847d9cbdd4f96892f12
 ##### PS: Можно использовать только, то что мы прошли.
 ##### PSS: каждую задачу в отдельном файле <number>.py и все файлы в zip
 
-# 1. Lesson 4 / 31.01.2020
+# 2. Lesson 4 / 31.01.2020
 ### Docs
 GIT:
 - https://git-scm.com/book - книга
